@@ -20,11 +20,17 @@ Actuellement en formation **Développeur Web et Web Mobile (DWWM)** au CCI Campu
 
 ---
 
+### 📂 Projets Marquants
+
+- **🏗️ Architecture Réseau d'Entreprise (BUT R&T) :** Conception et déploiement d'une infrastructure complète incluant serveurs, postes clients (Admin/User), segmentation réseau et téléphonie IP (VoIP).
+- **💻 Application Web Fullstack (DWWM) :** Développement en équipe d'une solution PHP complète (Front-end & Back-end) avec gestion de base de données SQL.
+
+---
+
 ### 🚀 Mon Parcours & Objectifs
-- 🎓 **En cours :** Titre DWWM (Fullstack Web).
+- 🎓 **En cours :** Titre DWWM (Spécialisation Fullstack).
 - 🏗️ **Prochaine étape :** Alternance AIS (Administration Infrastructures Numériques).
-- ✈️ **Expérience marquante :** Apprenti maintenance à l'Aéroport Bâle-Mulhouse (Systèmes critiques & Courant faible).
-- 🛡️ **Focus :** Sécurisation des réseaux, virtualisation et automatisation.
+- 🛡️ **Focus :** Sécurisation, Virtualisation et monitoring d'infrastructures.
 
 ---
 
